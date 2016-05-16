@@ -1,0 +1,36 @@
+
+body {  padding: 1px;
+    margin-right: 3px;
+}
+
+.container1 {   padding: 3px;
+    margin: 0px;
+}
+
+table {
+    width:30%;
+    max-width: 40%;
+    margin-bottom: 5px;
+    font-size: small;
+    padding: 0px;
+}
+
+th {
+    padding: 1px;
+    background-color: #A5A5A5;
+}
+
+.grey {
+    padding: 1px;
+    font-weight: bold;
+    background-color: #A5A5A5;
+}
+
+.bold{
+    padding: 1px;
+    font-weight: bold;
+}
+
+.padding{
+    padding: 1px;
+}
